@@ -19,6 +19,21 @@
 - 支持总开关和插件功能配置
 - 支持指定UP主关注状态验证，并可跳转到哔哩哔哩App内个人空间
 
+本插件借助 [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 项目的支持，实现空降片段数据获取与相关功能。
+
+## 功能预览
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/images/preview-1.jpg" alt="设置页面入口" width="100%"></td>
+    <td width="50%"><img src="docs/images/preview-2.jpg" alt="空降助手设置" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/images/preview-3.jpg" alt="自动跳过与彩色进度条" width="100%"></td>
+    <td width="50%"><img src="docs/images/preview-4.jpg" alt="横屏播放效果" width="100%"></td>
+  </tr>
+</table>
+
 ## 当前适配范围
 
 - iOS 15.0 及以上
