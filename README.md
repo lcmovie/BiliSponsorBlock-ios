@@ -22,7 +22,7 @@
 - ........
 
 ###插件共存
-- 经实测，可与[BiliBiliTweak](https://github.com/TouchFriend/BiliBiliTweak)共存，且功能正常。
+- 经实测，可与[BiliBiliTweak](https://github.com/TouchFriend/BiliBiliTweak)  [BiliBiliMApp](https://github.com/TouchFriend/BiliBiliMApp)共存，且功能正常。
 
 ## 功能预览
 
