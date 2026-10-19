@@ -21,6 +21,8 @@
 - 竖屏模式下彩色进度条
 - ........
 
+###插件共存
+- 经实测，可与[BiliBiliTweak](https://github.com/TouchFriend/BiliBiliTweak）共存，且功能正常。
 ## 功能预览
 
 <table>
